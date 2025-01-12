@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto p-4">
         <div className="row">
           <div className="col-md-4">
-            <h2 className='text-center'>ShopKart</h2>
+            <h2 className='text-center'>ShopKart @Ramachandran 2024</h2>
           </div>
         </div>
       </div>
